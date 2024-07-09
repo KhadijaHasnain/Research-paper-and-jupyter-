@@ -1,0 +1,161 @@
+Algorithmic bias 
+https://en.wikipedia.org/wiki/Algorithmic_bias#:~:text=The%20term%20algorithmic%20bias%20describes,group%20of%20users%20over%20others.
+
+Algorithmic bias detection and mitigation: Best practices and policies to reduce consumer harms
+Nicol Turner Lee, Paul Resnick, and Genie Barton
+May 22, 2019
+https://www.brookings.edu/articles/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/
+
+Eliminating Algorithmic Bias Is Just the Beginning of Equitable AI
+by Simon Friis and James Riley
+September 29, 2023
+https://hbr.org/2023/09/eliminating-algorithmic-bias-is-just-the-beginning-of-equitable-ai#:~:text=Algorithmic%20bias%20occurs%20when%20algorithms,criminal%20justice%2C%20and%20credit%20scoring.
+
+What is Algorithmic Bias?
+Algorithmic bias results in unfair outcomes due to skewed or limited input data, unfair algorithms, or exclusionary practices during AI development.
+Jul 2023
+https://www.datacamp.com/blog/what-is-algorithmic-bias
+
+Algorithmic Solutions to Algorithmic Bias: A Technical Guide Joyce Xu Published in Towards Data Science ,Jun 18, 2019
+https://towardsdatascience.com/algorithmic-solutions-to-algorithmic-bias-aef59eaf6565
+
+Shedding light on AI bias with real world examples , October 16, 2023
+By IBM Data and AI Team
+https://www.ibm.com/blog/shedding-light-on-ai-bias-with-real-world-examples/
+
+Algorithmic bias https://www.engati.com/glossary/algorithmic-bias
+
+Understanding algorithmic bias and how to build trust in AI , https://www.pwc.com/us/en/tech-effect/ai-analytics/algorithmic-bias-and-trust-in-ai.html
+
+Safiya Noble: Challenging the Algorithms of Oppression (June 15, 2016) , https://guides.lib.fsu.edu/algorithm
+
+Falling under the radar: the problem of algorithmic bias and military applications of AI
+March 14, 2024,Ingvild Bode  Associate Professor at the Center for War Studies, University of Southern Denmark , https://blogs.icrc.org/law-and-policy/2024/03/14/falling-under-the-radar-the-problem-of-algorithmic-bias-and-military-applications-of-ai/
+
+5 Algorithms that Demonstrate Artificial Intelligence Bias
+Last Updated : 04 Jul, 2022 https://www.geeksforgeeks.org/5-algorithms-that-demonstrate-artificial-intelligence-bias/
+
+Algorithmic Bias Detection Tool , https://www.envisioning.io/signals/algorithmic-bias-detection-tool
+
+Algorithmic biases – Is it a challenge to achieve fairness in AI? Ayesha Salee
+September 7, 2023 https://datasciencedojo.com/blog/algorithmic-biases/
+
+Understanding Bias and Fairness in Machine Learning Algorithms Zhong Hong Sep 15, 2023 ,https://medium.com/@zhonghong9998/understanding-bias-and-fairness-in-machine-learning-algorithms-f3279e667b10
+
+Algorithmic bias in AI , https://www.educative.io/answers/algorithmic-bias-in-ai
+
+Algorithmic Bias in Machine Learning
+Published by Pearson , https://www.oreilly.com/live-events/algorithmic-bias-in-machine-learning/0636920080193/0636920080192/
+
+Bias in artificial intelligence algorithms and recommendations for mitigation
+Lama H. Nazer ,Razan Zatarah,Shai Waldrip,Janny Xue Chen Ke,Mira Moukheiber,Ashish K. Khanna,Rachel S. Hicklen,Lama Moukheiber,Dana Moukheiber,Haobo Ma,Piyush Mathur
+Published: June 22, 2023 https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000278&utm_source=miragenews&utm_medium=miragenews&utm_campaign=news
+
+Machine Learning Bias, Statistical Bias, and
+Statistical Variance of Decision Tree Algorithms
+Thomas G. Dietterich
+tgd@cs.orst.edu
+Eun Bae Kong
+ebkong@cs.orst.edu
+Department of Computer Science
+303 Dearborn Hall
+Oregon State University
+Corvallis, OR 97331-3202
+https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=893b204890394d1bf4f3332b4b902bfdb30a9a13
+
+ 26 October 2019
+Millions of black people affected by racial bias in health-care algorithms
+Study reveals rampant racism in decision-making software used by US hospitals — and highlights ways to correct it.
+By Heidi Ledford
+https://www.nature.com/articles/d41586-019-03228-6
+
+Algorithmic bias: review, synthesis, and future research directions
+Nima KordzadehORCID Icon &Maryam GhasemaghaeiORCID Icon
+Pages 388-409 | Received 25 Apr 2020, Accepted 29 Apr 2021, Published online: 06 Jun 2021 , https://www.tandfonline.com/doi/abs/10.1080/0960085X.2021.1927212
+
+Dissecting Racial Bias in an Algorithm that Guides Health Decisions for 70 Million People , https://dl.acm.org/doi/abs/10.1145/3287560.3287593
+
+Evolution and impact of bias in human and machine learning algorithm interaction
+Wenlong Sun,Olfa Nasraoui ,Patrick Shafto
+Published: August 13, 2020
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235502
+
+Dissecting racial bias in an algorithm used to manage the health of populations
+ZIAD OBERMEYER HTTPS://ORCID.ORG/0000-0002-4563-5849, BRIAN POWERS, CHRISTINE VOGELI, AND SENDHIL MULLAINATHAN HTTPS://ORCID.ORG/0000-0001-8508-4052 Authors Info & Affiliations
+SCIENCE
+25 Oct 2019
+https://www.science.org/doi/full/10.1126/science.aax2342
+
+Genetic Algorithms and their Applications: Proceedings of the Second ...
+edited by John J. Grefenstette ,https://books.google.com.pk/books?hl=en&lr=&id=MYJ_AAAAQBAJ&oi=fnd&pg=PA14&dq=algorithm+bias&ots=XynJwj0vHx&sig=dxA_IGz_fAzyDFIjRI56GR7rBLo#v=onepage&q=algorithm%20bias&f=false
+
+Bias in artificial intelligence algorithms and recommendations for mitigation
+Lama H. Nazer ,Razan Zatarah,Shai Waldrip,Janny Xue Chen Ke,Mira Moukheiber,Ashish K. Khanna,Rachel S. Hicklen,Lama Moukheiber,Dana Moukheiber,Haobo Ma,Piyush Mathur
+Published: June 22, 2023
+https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000278&utm_source=miragenews&utm_medium=miragenews&utm_campaign=news
+
+September 22, 2021
+Lack of Transparency and Potential Bias in Artificial Intelligence Data Sets and Algorithms
+A Scoping Review
+https://jamanetwork.com/journals/jamadermatology/article-abstract/2784295
+
+Managing Bias in AI
+Authors: 
+Author PictureDrew Roselli
+
+, 
+Author PictureJeanna Matthews
+
+, 
+Author PictureNisha Talagala
+
+ Authors Info & Claims
+WWW '19: Companion Proceedings of The 2019 World Wide Web ConferenceMay 2019
+https://dl.acm.org/doi/abs/10.1145/3308560.3317590
+
+machine learning bias (AI bias)
+
+By
+Alexander S. Gillis, Technical Writer and EditorMary K. Pratt
+https://www.techtarget.com/searchenterpriseai/definition/machine-learning-bias-algorithm-bias-or-AI-bias
+
+
+The Machine Got it Wrong? Uncertainties, Assumptions, and Biases in Military AI
+by Arthur Holland Michel
+May 13, 2024 , https://www.justsecurity.org/95630/biases-in-military-ai/
+
+AI: Study shows pro-western cultural bias
+Mary Carman and Uwe Peters MARY CARMAN AND UWE PETERS 12 MAJ, 2024
+https://globalbar.se/2024/05/ai-study-shows-pro-western-cultural-bias/
+
+OCTOBER 26, 2023
+
+6 MIN READ
+
+Humans Absorb Bias from AI—And Keep It after They Stop Using the Algorithm
+
+People may learn from and replicate the skewed perspective of an artificial intelligence algorithm, and they carry this bias beyond their interactions with the AI
+
+BY LAUREN LEFFER , https://www.scientificamerican.com/article/humans-absorb-bias-from-ai-and-keep-it-after-they-stop-using-the-algorithm/
+
+AI bias: What it is and why it matters
+What companies and organizations should know about AI bias, its impact, and why it happens.
+https://www.sitecore.com/blog/ai/ai-bias-what-it-is-and-why-it-matters
+
+Bias in AI, https://www.chapman.edu/ai/bias-in-ai.aspx
+
+What Do We Do About the Biases in AI?
+by James Manyika, Jake Silberg, and Brittany Presten
+October 25, 2019
+https://hbr.org/2019/10/what-do-we-do-about-the-biases-in-ai
+
+AI Bias - What Is It and How to Avoid It?
+Zoe Larkin
+Content Queen
+November 16, 2022 , https://levity.ai/blog/ai-bias-how-to-avoid
+
+Bias in AI: What it is, Types, Examples & 6 Ways to Fix it in 2024
+Artificial Intelligence Updated on Feb 14 Written by Cem Dilmegani , https://research.aimultiple.com/ai-bias/
+Face Recognition Algorithm Bias: Performance Differences on Images of Children and Adults
+Nisha Srinivas, Karl Ricanek, Dana Michalski, David S. Bolme, Michael King; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2019, pp. 0-0
+https://openaccess.thecvf.com/content_CVPRW_2019/html/BEFA/Srinivas_Face_Recognition_Algorithm_Bias_Performance_Differences_on_Images_of_Children_CVPRW_2019_paper.html
